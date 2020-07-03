@@ -4,7 +4,7 @@
 <img src="Stock_prices_tweet_correlation_files/elon_musk.png" alt="Image Not found">
 </div>
 <br>
-<font size="4">While intuitively wit does make sense that there should be a connection between the tweets of famous industrialists and the stock prices of their brands, it is still interestig to confirm this 
+<font size="4">While intuitively it does make sense that there should be a connection between the tweets of famous industrialists and the stock prices of their brands, it is still interestig to confirm this 
 with real numbers.<br><br>In this blog I try to investigate this using Elon Musk's tweets and the stock prices of Tesla inc. for the last one year.</font>
 
 <font size="4">First let's import some necessary modules.</font>
